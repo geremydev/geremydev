@@ -68,7 +68,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c#,py,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,&perline=8)](https://skillicons.dev)
 
 ###
 
